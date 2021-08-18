@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek Krishna sophomore of NIT Durgapur.
-- 👀 I’m interested in Development an Open Source.
+- 👀 I’m interested in Development and Open Source.
 - 🌱 I’m currently learning React
 - 📫 How to reach me -> 
      Linkedln Profile -> https://www.linkedin.com/in/abhishek-krishna-a39590200/
